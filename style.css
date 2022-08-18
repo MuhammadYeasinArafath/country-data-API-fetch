@@ -1,0 +1,20 @@
+#post{
+    display: grid;
+    grid-template-columns:auto auto auto ;
+    grid-gap: 20px;
+}
+.post{
+    color:bisque;
+    padding: 10px;
+    border-radius: 2px;
+    background-color:#333;
+}
+.h1{
+    text-align: center;
+    background-color:#333;
+    color:white;
+}
+.png{
+    height: 3in;
+    width: 5in;
+}
