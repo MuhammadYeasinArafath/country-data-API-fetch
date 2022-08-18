@@ -3,7 +3,7 @@ country data API fetch(country name, population, flag)
 <br>
 home-task / project
 <br>
-Live link:
+Live link: https://muhammadyeasinarafath.github.io/country-data-API-fetch/
 <br>
 API link:https://restcountries.com/v3.1/all
 <br>
